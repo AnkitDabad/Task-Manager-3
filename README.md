@@ -604,5 +604,5 @@ curl -X POST https://team-task-manager-production-f241.up.railway.app/api/auth/l
 curl https://team-task-manager-production-f241.up.railway.app/health
 ```
 
-> **Built by Anuj Singh** — Full-Stack Developer  
+> **Built by Ankit ** — Full-Stack Developer  
 > This project shows skills in: React, Node.js, Express, MongoDB, JWT login, role-based access, and cloud deployment on Railway.
